@@ -51,3 +51,33 @@ Issues Faced:
 - Initially had confusion about the correct fully qualified command for running classes with packages.
 - Had to verify the input format and expected output for each program.
 - Resolved the issues by checking the package structure and compiling the files correctly.
+
+**## Date: 07-09-2026**
+
+****Today's Work:****
+
+- Completed Session 4.
+
+- Completed 5 class problems including BusTicket, FareSplitter, BusRoute, BoardingPenaltyCalculator, and FleetReconciliationEngine.
+
+- Completed 5 assignment problems including FoodOrder, DeliverySlot, Canteen, SurgeFeeCalculator, and ReconciliationEngine.
+
+- Practiced Java inheritance, Comparable, sorting, exception handling, static members, arrays, and user input using Scanner.
+
+- Compiled and tested the programs in VS Code.
+
+- Pushed Session 4 work to `feature/session_4`.
+
+****Next Session Plan:****
+
+- Start Session 5 and complete the assigned programs.
+
+- Continue maintaining the required Git branch and package structure.
+
+****Issues Faced:****
+
+- Faced file path and package-related errors while compiling the programs.
+
+- Faced a dependency error in ReconciliationEngine because SurgeFeeCalculator was required.
+
+- Resolved the issues by correcting the package structure and compiling both dependent Java files together.
