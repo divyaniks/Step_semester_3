@@ -81,3 +81,31 @@ Issues Faced:
 - Faced a dependency error in ReconciliationEngine because SurgeFeeCalculator was required.
 
 - Resolved the issues by correcting the package structure and compiling both dependent Java files together.
+
+## Date: 13-09-2026
+
+**Today's Work:**
+
+* Completed Session 5.
+
+* Completed 5 class problems.
+
+* Completed 5 assignment problems.
+
+* Practiced Java OOP concepts including access modifiers, inheritance, encapsulation, arrays, JavaBeans, immutability, constructors, static members, validation, and exception handling.
+
+* Compiled and tested the programs in VS Code.
+
+* Pushed Session 5 work to `feature/session_5`.
+
+**Next Session Plan:**
+
+* Start Session 6 and complete the assigned programs.
+
+* Continue maintaining the required Git branch and package structure.
+
+**Issues Faced:**
+
+* Faced package and class-path errors while compiling and running the programs.
+
+* Resolved the issues by correcting the package structure and using the appropriate compile and run commands.
