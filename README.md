@@ -142,7 +142,7 @@ Issues Faced:
 
 * Resolved the issues by correcting the class structure, package paths, and compile/run commands.
 
-**## Date: 20-09-2026**
+## Date: 20-09-2026
 
 ****Today's Work:****
 
