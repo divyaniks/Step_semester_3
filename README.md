@@ -240,3 +240,26 @@ Issues Faced:
 
 - Faced compilation and execution issues while working with Java Collections.
 - Resolved the issues and successfully tested the programs.
+
+Week 11 – Linked List Implementation and Operations
+
+Today's Work:
+
+- Started and completed Week 11.
+- Completed the assigned class problems.
+- Completed the assigned assignment problems.
+- Practiced linked list implementation and operations using Java.
+- Learned node creation, insertion, deletion, traversal, and linked list manipulation.
+- Organized programs using the required package and folder structure.
+- Compiled and tested the programs in VS Code.
+- Pushed Week 11 work to "feature/session_11".
+
+Next Session Plan:
+
+- Start Week 12 and complete the assigned programs.
+- Continue practicing Java data structures and problem-solving.
+
+Issues Faced:
+
+- Faced compilation and execution issues while implementing linked list operations.
+- Resolved the issues and successfully tested the programs.
