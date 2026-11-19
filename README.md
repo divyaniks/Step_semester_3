@@ -218,3 +218,25 @@ Issues Faced:
 - Faced compilation and execution issues while working on the programs.
 - Resolved the issues and successfully tested the programs.
 
+Week 10 – OOP & Collections
+
+Today's Work:
+
+- Started and completed Week 10.
+- Completed the assigned class problems.
+- Completed the assigned assignment problems.
+- Practiced Object-Oriented Programming concepts and Java Collections.
+- Worked with Java collection frameworks and their operations.
+- Practiced organizing and managing data using collections.
+- Compiled and tested the programs in VS Code.
+- Pushed Week 10 work to "feature/session_10".
+
+Next Session Plan:
+
+- Start Week 11 and complete the assigned programs.
+- Continue practicing Java OOP concepts and Collections.
+
+Issues Faced:
+
+- Faced compilation and execution issues while working with Java Collections.
+- Resolved the issues and successfully tested the programs.
