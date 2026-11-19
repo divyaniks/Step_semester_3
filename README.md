@@ -263,3 +263,27 @@ Issues Faced:
 
 - Faced compilation and execution issues while implementing linked list operations.
 - Resolved the issues and successfully tested the programs.
+
+Week 12 – Data Structures and Algorithms (DSA)
+
+Today's Work:
+
+- Started and completed Week 12.
+- Completed the assigned class problems.
+- Completed the assigned assignment problems.
+- Practiced Data Structures and Algorithms using Java.
+- Worked on implementing data structures and solving algorithmic problems.
+- Practiced problem-solving, logical thinking, and algorithm development.
+- Organized programs using the required package and folder structure.
+- Compiled and tested the programs in VS Code.
+- Pushed Week 12 work to "feature/session_12".
+
+Next Session Plan:
+
+- Continue learning advanced Data Structures and Algorithms.
+- Practice more coding problems and improve problem-solving skills.
+
+Issues Faced:
+
+- Faced compilation and logical errors while implementing DSA programs.
+- Resolved the issues and successfully tested the programs.
