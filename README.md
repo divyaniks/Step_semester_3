@@ -194,3 +194,27 @@ Next Session Plan:
 Issues Faced:
 
 - Resolved compilation and package-related issues while creating and executing the programs.
+
+Week 9 – Introduction to Data Structures
+
+Today's Work:
+
+- Started and completed Week 9.
+- Completed the assigned class problems.
+- Completed the assigned assignment problems.
+- Learned the fundamentals of Data Structures.
+- Practiced organizing and implementing data structures using Java.
+- Organized programs using the required package and folder structure.
+- Compiled and tested the programs in VS Code.
+- Pushed Week 9 work to "feature/session_9".
+
+Next Session Plan:
+
+- Start Week 10 and complete the assigned programs.
+- Continue practicing Java and data structure concepts.
+
+Issues Faced:
+
+- Faced compilation and execution issues while working on the programs.
+- Resolved the issues and successfully tested the programs.
+
