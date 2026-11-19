@@ -173,3 +173,24 @@ Issues Faced:
 * Faced some compilation and execution errors while working with interfaces, abstraction, inheritance, and package structures.
 
 * Resolved the issues by correcting the class structure, package paths, source files, and compile/run commands.
+
+Week 8 – Object Class Methods, Inner Classes & UML Diagrams
+
+Today's Work:
+
+- Started and completed Week 8.
+- Completed the assigned class problems.
+- Completed the assigned assignment problems.
+- Practiced Java concepts including object class methods, inner classes, and UML diagrams.
+- Organized programs using the required package and folder structure.
+- Compiled and tested the programs in VS Code.
+- Pushed Week 8 work to "feature/session_8".
+
+Next Session Plan:
+
+- Start Week 9 and complete the assigned programs.
+- Continue practicing Java concepts and problem-solving.
+
+Issues Faced:
+
+- Resolved compilation and package-related issues while creating and executing the programs.
